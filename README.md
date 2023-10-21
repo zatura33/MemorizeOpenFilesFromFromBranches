@@ -28,7 +28,7 @@ Here's an example file:<br>
   "CloseOldOpenedFilesBeforeOpening": true
 }
 </code><br><br>
-Configuration definition: <br>
+**Configuration definition:** <br>
 1. NumberOfParentToFindGit           -> An integer, it's the number of folder that the extension will climb up from the solution folder to search the .git folder file
 2. OpenFilesInSecondsInterval        -> An integer, the delay from wich the files and branch change will be checked/saved
 3. IsManualUse                       -> A boolean, If you choose to use the application manually.
