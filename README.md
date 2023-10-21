@@ -19,7 +19,7 @@ There is a configuration file for the extension located in %LocalAppData%\Memori
 The real path is C:\Users\[username]\AppData\Local\MemorizeOpenFileFromBranches\Extension.cfg<br>
 In this configuration file you are able to setupe the way you want to work with MemorizeOpenFilesFromFromBranches Extension.<br>
 Here's an example file:<br>
-`code`
+<code>
 {
   "NumberOfParentToFindGit": 10,
   "OpenFilesInSecondsInterval": 10,
@@ -27,8 +27,7 @@ Here's an example file:<br>
   "NoBranchChangePopUp": false,
   "CloseOldOpenedFilesBeforeOpening": true
 }
- `code`
- <br>
+</code><br>
 Configuration definition: <br>
 1. NumberOfParentToFindGit           -> An integer, it's the number of folder that the extension will climb up from the solution folder to search the .git folder file
 2. OpenFilesInSecondsInterval        -> An integer, the delay from wich the files and branch change will be checked/saved
