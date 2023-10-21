@@ -11,8 +11,9 @@ By default the opened files are automatically saved.<br>
 <br>
 **Manually**<br>
 In this mode you need to use the Take open files snapshot to save opened files.<br>
-To recover opened files you need to use get last opened files in branch.<br>
+To recover opened files you need to use get last opened files in branch.<br><br>
 ![image](https://github.com/zatura33/MemorizeOpenFilesFromFromBranches/assets/19225363/f6fd57d2-b9d8-4c97-8b0e-0141f4979405)
+<br>
 <br>
 **Configuration**<br>
 There is a configuration file for the extension located in %LocalAppData%\MemorizeOpenFileFromBranches\Extension.cfg<br>
