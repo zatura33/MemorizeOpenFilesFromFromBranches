@@ -1,11 +1,11 @@
 # MemorizeOpenFilesFromFromBranches
 
 **What is it for ?**<br>
-This extension has been created to save time in support or other development task that requires to change branch oftenly.
+This extension has been created to save time in support or other development task that requires to change branch oftenly.<br>
 
 **How does this save time ?**<br>
-It is keeping in memory the last opened files in your branch from visual studio and when you get back on this branch there<br>
-is a prompt window that ask you if you want to open back the files you use to have when you where in this branch last time.<br>
+It is keeping in memory the last opened files in your branch from visual studio. When you get back on this branch there
+will be a prompt window that ask you if you want to open back the files you use to have last time.
 <br>
 By default the opened files are automatically saved.<br>
 <br>
@@ -18,7 +18,7 @@ To recover opened files you need to use get last opened files in branch.<br><br>
 **Configuration**<br>
 There is a configuration file for the extension located in %LocalAppData%\MemorizeOpenFileFromBranches\Extension.cfg<br>
 The real path is C:\Users\[username]\AppData\Local\MemorizeOpenFileFromBranches\Extension.cfg<br>
-In this configuration file you are able to setupe the way you want to work with MemorizeOpenFilesFromFromBranches Extension.<br>
+In this configuration file you are able to setupe the way you want to work with MemorizeOpenFilesFromFromBranches Extension.
 Here's an example file:<br>
 <code>
 {
