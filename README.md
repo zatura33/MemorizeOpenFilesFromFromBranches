@@ -7,7 +7,7 @@ This extension has been created to save time in support or other development tas
 It is keeping in memory the last opened files in your branch from visual studio. When you get back on this branch there
 will be a prompt window that ask you if you want to open back the files you use to have last time.
 <br><br>
-By default the opened files are automatically saved.<br>
+By default the opened files are automatically saved.<br><br>
 **Manually**<br>
 In this mode you need to use the Take open files snapshot to save opened files.<br>
 To recover opened files you need to use get last opened files in branch.<br><br>
