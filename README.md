@@ -49,15 +49,28 @@ Here's an example file:<br>
     <tr>
     <td>NumberOfParentToFindGit</td>
     <td>Integer</td>
-    <td style="font-size:4em;"><p>The number of folder that the extension will climb up from the solution folder to search the .git folder file</p></td>
+    <td><sup>The number of folder that the extension will climb up from the solution folder to search the .git folder file</sup></td>
   </tr>
   <tr>
+    <td>OpenFilesInSecondsInterval</td>
     <td>Integer</td>
-    <td>NumberOfParentToFindGit</td>
-    <td>The number of folder that the extension will climb up from the solution folder to search the .git folder file</td>
-  </tr>
+    <td><sup>The delay from wich the files and branch change will be checked/saved</sup></td>
   </tr>
   <tr>
+    <td>IsManualUse</td>
+    <td>Boolean</td>
+    <td><sup>If you choose to use the extension manually.</sup></td>
+  </tr>
+ <tr>
+    <td>NoBranchChangePopUp</td>
+    <td>Integer</td>
+    <td><sup>A popup that you want to be shown each time your branches change.</sup></td>
+  </tr>
+ <tr>
+    <td>CloseOldOpenedFilesBeforeOpening</td>
+    <td>Integer</td>
+    <td><sup>Close all already opened file before opening last saved files.</sup></td>
+  </tr>    
 </table>
 
 
