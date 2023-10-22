@@ -39,7 +39,9 @@ Here's an example file:<br>
   "CloseOldOpenedFilesBeforeOpening": true
 }
 </code><br><br>
-**Configuration definition:** <br>
+
+**Configuration definition**
+<br>
 <table style="overflow: hidden;">
   <tr>
     <td>Setting name</td>
