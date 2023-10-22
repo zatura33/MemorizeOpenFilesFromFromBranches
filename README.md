@@ -19,10 +19,10 @@ There is a configuration file for the extension located in :  <br>
 <table>
 <tr>
     <td>Alias path</td>
-    <td>Real path</td>
+    <td>%LocalAppData%\MemorizeOpenFileFromBranches\Extension.cfg</td>
   </tr>
   <tr>
-    <td>%LocalAppData%\MemorizeOpenFileFromBranches\Extension.cfg</td>
+    <td>Real path</td>
     <td>C:\Users\[username]\AppData\Local\MemorizeOpenFileFromBranches\Extension.cfg</td>
   </tr>
   <tr>
