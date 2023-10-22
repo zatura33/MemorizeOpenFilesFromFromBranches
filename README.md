@@ -66,7 +66,7 @@ Here's an example file:<br>
  <tr>
     <td>NoBranchChangePopUp</td>
     <td>Boolean</td>
-    <td><sup>A popup that you want to be shown each time your branches change.</sup></td>
+    <td><sup>A popup that you is shown each time your branches change.</sup></td>
   </tr>
  <tr>
     <td>CloseOldOpenedFilesBeforeOpening</td>
