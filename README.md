@@ -63,12 +63,12 @@ Here's an example file:<br>
   </tr>
  <tr>
     <td>NoBranchChangePopUp</td>
-    <td>Integer</td>
+    <td>Boolean</td>
     <td><sup>A popup that you want to be shown each time your branches change.</sup></td>
   </tr>
  <tr>
     <td>CloseOldOpenedFilesBeforeOpening</td>
-    <td>Integer</td>
+    <td>Boolean</td>
     <td><sup>Close all already opened file before opening last saved files.</sup></td>
   </tr>    
 </table>
