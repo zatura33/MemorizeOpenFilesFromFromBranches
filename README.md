@@ -49,7 +49,7 @@ Here's an example file:<br>
     <tr>
     <td>NumberOfParentToFindGit</td>
     <td>Integer</td>
-    <td><p style="font-size:4em;">The number of folder that the extension will climb up from the solution folder to search the .git folder file</p></td>
+    <td style="font-size:4em;"><p>The number of folder that the extension will climb up from the solution folder to search the .git folder file</p></td>
   </tr>
   <tr>
     <td>Integer</td>
