@@ -59,11 +59,6 @@ Here's an example file:<br>
   </tr>
   <tr>
 </table>
-1. NumberOfParentToFindGit           -> An integer, it's
-2. OpenFilesInSecondsInterval        -> An integer, the delay from wich the files and branch change will be checked/saved
-3. IsManualUse                       -> A boolean, If you choose to use the application manually.
-4. NoBranchChangePopUp               -> A boolean, A popup that you want to be shown each time your branches change.
-5. CloseOldOpenedFilesBeforeOpening  -> A boolean, close all already opened file before opening last saved files. 
 
 
 
