@@ -15,9 +15,9 @@ To recover opened files you need to use get last opened files in branch.<br><br>
 <br>
 <br>
 **Configuration**<br>
-There is a configuration file for the extension located in %LocalAppData%\MemorizeOpenFileFromBranches\Extension.cfg<br>
-The real path is C:\Users\[username]\AppData\Local\MemorizeOpenFileFromBranches\Extension.cfg<br>
-In this configuration file you are able to setupe the way you want to work with MemorizeOpenFilesFromFromBranches Extension.
+There is a configuration file for the extension located in :  <br> %LocalAppData%\MemorizeOpenFileFromBranches\Extension.cfg<br>
+Real path is C:\Users\[username]\AppData\Local\MemorizeOpenFileFromBranches\Extension.cfg<br>
+In this configuration file you are able to setup the way you want to work with MemorizeOpenFilesFromFromBranches Extension.
 Here's an example file:<br>
 <code>
 {
