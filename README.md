@@ -16,7 +16,7 @@ To recover opened files you need to use get last opened files in branch.<br><br>
 <br>
 **Configuration**<br>
 There is a configuration file for the extension located in :  <br>
-<table>
+<table style="overflow: hidden;">
 <tr>
     <td>Alias path</td>
     <td>%LocalAppData%\MemorizeOpenFileFromBranches\Extension.cfg</td>
