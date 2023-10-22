@@ -40,7 +40,26 @@ Here's an example file:<br>
 }
 </code><br><br>
 **Configuration definition:** <br>
-1. NumberOfParentToFindGit           -> An integer, it's the number of folder that the extension will climb up from the solution folder to search the .git folder file
+<table style="overflow: hidden;">
+  <tr>
+    <td>Setting name</td>
+    <td>Type</td>
+    <td>Description</td>
+  </tr>
+    <tr>
+    <td>NumberOfParentToFindGit</td>
+    <td>Integer</td>
+    <td><p style="font-zie:12px;">The number of folder that the extension will climb up from the solution folder to search the .git folder file</p></td>
+  </tr>
+  <tr>
+    <td>Integer</td>
+    <td>NumberOfParentToFindGit</td>
+    <td  " >The number of folder that the extension will climb up from the solution folder to search the .git folder file</td>
+  </tr>
+  </tr>
+  <tr>
+</table>
+1. NumberOfParentToFindGit           -> An integer, it's
 2. OpenFilesInSecondsInterval        -> An integer, the delay from wich the files and branch change will be checked/saved
 3. IsManualUse                       -> A boolean, If you choose to use the application manually.
 4. NoBranchChangePopUp               -> A boolean, A popup that you want to be shown each time your branches change.
