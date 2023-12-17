@@ -74,6 +74,7 @@ Here's an example file:<br>
     <td><sup>Close all already opened file before opening last saved files.</sup></td>
   </tr>    
 </table>
+<span style="color:red"> * Warning there was a trouble in version 1.6 please do not use this version.</span>
 
 
 
